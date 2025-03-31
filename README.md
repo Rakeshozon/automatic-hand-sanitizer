@@ -33,9 +33,9 @@ This project is an Arduino-based automatic hand sanitizer dispenser that uses an
 | LED Indicator | 13 |
 
 ## Installation & Usage
-1. Clone this repository https://github.com/Rakeshozon/automatic-hand-sanitizer.git
+1. Clone this repository
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone  https://github.com/Rakeshozon/automatic-hand-sanitizer.git
    ```
 2. Open the Arduino IDE and upload the provided code to your Arduino board.
 3. Connect the components as per the wiring diagram.
